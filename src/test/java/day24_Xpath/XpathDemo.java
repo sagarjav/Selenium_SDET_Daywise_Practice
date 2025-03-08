@@ -1,4 +1,4 @@
-package day24;
+package day24_Xpath;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

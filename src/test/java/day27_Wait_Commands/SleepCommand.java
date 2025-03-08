@@ -1,4 +1,4 @@
-package day27;
+package day27_Wait_Commands;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

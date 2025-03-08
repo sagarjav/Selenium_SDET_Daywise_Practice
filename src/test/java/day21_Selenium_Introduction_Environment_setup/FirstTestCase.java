@@ -1,4 +1,4 @@
-package day21;
+package day21_Selenium_Introduction_Environment_setup;
 
 import java.time.Duration;
 

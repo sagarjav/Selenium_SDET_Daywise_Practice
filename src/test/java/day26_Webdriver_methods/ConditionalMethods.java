@@ -1,4 +1,4 @@
-package day26;
+package day26_Webdriver_methods;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

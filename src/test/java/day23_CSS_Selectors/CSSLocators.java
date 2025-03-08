@@ -1,4 +1,4 @@
-package day23;
+package day23_CSS_Selectors;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
