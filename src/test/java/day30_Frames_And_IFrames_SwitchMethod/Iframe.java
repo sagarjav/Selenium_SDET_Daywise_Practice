@@ -31,7 +31,10 @@ public class Iframe {
 		WebElement frame33=driver.findElement(By.xpath("/html/body/center/iframe"));
 		driver.switchTo().frame(frame33);
 		Thread.sleep(3000);
-	    driver.findElement(By.xpath("//*[@id=\"i8\"]/div[3]/div")).click();
+	   // driver.findElement(By.xpath("//*[@id=\"i8\"]/div[3]/div")).click();
+		
+		driver.findElement(By.xpath("(//*[@class='AB7Lab Id5V1'])[3]")).click();
+	    System.out.println("finised programme...");
 	    driver.switchTo().defaultContent();
 	 
 		
