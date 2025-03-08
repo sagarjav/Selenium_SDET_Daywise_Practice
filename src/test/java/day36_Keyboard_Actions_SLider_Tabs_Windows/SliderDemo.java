@@ -1,4 +1,4 @@
-package day36;
+package day36_Keyboard_Actions_SLider_Tabs_Windows;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
